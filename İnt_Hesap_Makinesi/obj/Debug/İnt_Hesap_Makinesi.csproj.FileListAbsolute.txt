@@ -1,0 +1,11 @@
+D:\Bilal\Documents\Kurslar\C#\İnt_Hesap_Makinesi\İnt_Hesap_Makinesi\bin\Debug\İnt_Hesap_Makinesi.exe.config
+D:\Bilal\Documents\Kurslar\C#\İnt_Hesap_Makinesi\İnt_Hesap_Makinesi\bin\Debug\İnt_Hesap_Makinesi.exe
+D:\Bilal\Documents\Kurslar\C#\İnt_Hesap_Makinesi\İnt_Hesap_Makinesi\bin\Debug\İnt_Hesap_Makinesi.pdb
+D:\Bilal\Documents\Kurslar\C#\İnt_Hesap_Makinesi\İnt_Hesap_Makinesi\obj\Debug\İnt_Hesap_Makinesi.csproj.AssemblyReference.cache
+D:\Bilal\Documents\Kurslar\C#\İnt_Hesap_Makinesi\İnt_Hesap_Makinesi\obj\Debug\İnt_Hesap_Makinesi.csproj.SuggestedBindingRedirects.cache
+D:\Bilal\Documents\Kurslar\C#\İnt_Hesap_Makinesi\İnt_Hesap_Makinesi\obj\Debug\İnt_Hesap_Makinesi.Form1.resources
+D:\Bilal\Documents\Kurslar\C#\İnt_Hesap_Makinesi\İnt_Hesap_Makinesi\obj\Debug\İnt_Hesap_Makinesi.Properties.Resources.resources
+D:\Bilal\Documents\Kurslar\C#\İnt_Hesap_Makinesi\İnt_Hesap_Makinesi\obj\Debug\İnt_Hesap_Makinesi.csproj.GenerateResource.cache
+D:\Bilal\Documents\Kurslar\C#\İnt_Hesap_Makinesi\İnt_Hesap_Makinesi\obj\Debug\İnt_Hesap_Makinesi.csproj.CoreCompileInputs.cache
+D:\Bilal\Documents\Kurslar\C#\İnt_Hesap_Makinesi\İnt_Hesap_Makinesi\obj\Debug\İnt_Hesap_Makinesi.exe
+D:\Bilal\Documents\Kurslar\C#\İnt_Hesap_Makinesi\İnt_Hesap_Makinesi\obj\Debug\İnt_Hesap_Makinesi.pdb
